@@ -18,5 +18,4 @@ To stop sass compiling:
 
 ```sh
 ctrl + C
-```
-"# New-Project" 
+``` 
